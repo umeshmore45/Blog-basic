@@ -1,6 +1,6 @@
 # Blog-basic
 
 
-Host Url:
+Host Url:https://umeshmore45.github.io/Blog-basic/index.html
 
 
